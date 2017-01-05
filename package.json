@@ -1,0 +1,39 @@
+{
+  "name": "node-restify-swagger2",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nick Caruso"
+  },
+  "license": "MIT",
+  "keywords": [
+    "rest",
+    "api",
+    "restify",
+    "validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/njcaruso/node-restify-swagger2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/njcaruso/node-restify-swagger2/issues"
+  },
+  "scripts": {},
+  "main": "lib/index",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "underscore.string": "~2.3.3",
+    "node-restify-validation": "~0.1.0",
+    "lingo": "0.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.0",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
