@@ -22,10 +22,11 @@
   "main": "lib/index",
   "readmeFilename": "README.md",
   "dependencies": {
-    "underscore": "~1.7.0",
-    "underscore.string": "~2.3.3",
+    "lingo": "0.0.5",
     "node-restify-validation": "~0.1.0",
-    "lingo": "0.0.5"
+    "swagger-tools": "^0.10.1",
+    "underscore": "~1.7.0",
+    "underscore.string": "~2.3.3"
   },
   "devDependencies": {
     "eslint": "^3.12.0",
